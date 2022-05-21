@@ -9,15 +9,13 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-
 ## :sparkles: What was the challenge?
 
 -Create a register funnel => Sign in, Sign Up, Creation of Profile
 
 -Full Crud and mongoDB Setup
 
--Deploy application on Heroku
+-Deploy application on Heroku => The Heroku link is provided in the About section of this repo.
 
 ## :thinking: What was the result?
 
