@@ -2,6 +2,15 @@
 
 This page was created as an exercise in the phase 2 of the BeCode formation, The Hill.
 
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+
 ## :sparkles: What was the challenge?
 
 -Create a register funnel => Sign in, Sign Up, Creation of Profile
